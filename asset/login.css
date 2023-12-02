@@ -13,17 +13,17 @@ body, html{
 }
 
 .main-login-section{
-    padding-left: 34px;
+    padding-left: 110px;
     padding-right: 28px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     margin-top: 150px;
-    margin-left: 385px;
-    margin-right: 385px;
+    margin-left: 395px;
+    margin-right: 395px;
     margin-bottom: 130px;
     background-color: #00308F;
     color: white;
-    font-size: 16px;
+    font-size: 18px;
 
 }
 
@@ -31,14 +31,14 @@ body, html{
     padding-left: 180px;
 }
 .main-login-section .welcome-txt{
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
 }
 
 .main-login-section .staff-login{
-    padding-left: 130px;
+    padding-left: 100px;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 24px;
     color: yellow;
 }
 
